@@ -64,9 +64,9 @@ Page 5, détail d'une réclamation :
 
 ## Version en ligne
 
-Hébergement prévu : AlwaysData, InfinityFree, ou le serveur de l'école.
+Le site est en ligne sur InfinityFree :
 
-Lien : à ajouter après la mise en ligne.
+https://reclamassur.infinityfreeapp.com/public/reclamation.php
 
 ## Organisation
 
